@@ -1,4 +1,5 @@
-# MODULES
+# LIBRARY
+
 import os
 import colorama
 from os import system
@@ -12,6 +13,7 @@ except:
     os.system("pip install requests")
     
 #LOGO
+
 logo = """
   _                     _     
  | |   _   _ _ __   ___| |__  
